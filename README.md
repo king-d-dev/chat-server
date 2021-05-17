@@ -1,2 +1,2 @@
 # opus-chat-server
-I haven't been able to finish the project yet. I'm still working on it.
+This is still a work in progress at its very inital phase
